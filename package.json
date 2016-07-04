@@ -5,7 +5,7 @@
   "main": "server.js",
   "repository": {
     "type": "git",
-    "url": "soon"
+    "url": "https://github.com/Tylenis/request-header-parser"
   },
   "scripts": {
   "start": "node server.js"
